@@ -1,0 +1,1 @@
+VS Code prettier shortcut - ALT + SHIFT + F
